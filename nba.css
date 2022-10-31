@@ -1,0 +1,90 @@
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            width: 100%;
+            height: 100%;
+            background-color:rgb(18, 18, 18);
+            margin-left: auto;
+            margin-right: auto;
+            color:white;
+            
+        }
+        h1{
+            text-align: center;
+        }
+    
+        #Intro{
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
+            border-radius: 10px;
+            border: 1px solid rgb(171, 171, 171);
+            padding: 10px;
+            text-align: justify;
+            background-color: rgb(18, 18, 18);
+        }
+        #MJHome{
+            
+            margin-left: 0%;
+            margin-right: auto;
+            width: 30%;
+            border-radius: 10px;
+            border: 1px solid rgb(171, 171, 171);
+            padding: 10px;
+            text-align: justify;
+            background-color: rgb(18, 18, 18);
+
+        }
+        #LeBronIntro{
+            margin-left: auto;
+            margin-right: 0%;        ;
+            width: 25%;
+            border-radius: 10px;
+            border: 1px solid rgb(171, 171, 171);
+            padding: 10px;
+            text-align: justify;
+            background-color: rgb(18, 18, 18);
+        }
+        #KareemIntro{
+            margin-left: 0%;
+            margin-right: auto;
+            width: 30%;
+            border-radius: 10px;
+            border: 1px solid rgb(171, 171, 171);
+            padding: 10px;
+            text-align: justify;
+            background-color: rgb(18, 18, 18);
+        }
+        .PlayerHome{
+            width: 100%;
+            display: flex;
+            align-items: center;
+        }
+        .imgLeft{
+            display: block;
+            margin-right: 2%;
+            margin-left: auto;
+        }
+        .imgRight{
+            display: block;
+            margin-right: auto;
+            margin-left: 2%;
+        }
+        .PlayerPage{
+            display: block;
+            margin-right: auto;
+            width: 50%;
+        }
+        .AccoTeams{
+            margin-left: 2%;
+            margin-right: auto;
+            width: 40%;
+            border-radius: 10px;
+            border: 1px solid rgb(171, 171, 171);
+            padding: 10px;
+            text-align: justify;
+            background-color: rgb(18, 18, 18);
+        }
+   
+       
+        
