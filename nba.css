@@ -125,6 +125,12 @@
             margin-left: auto;
             margin-right: auto;
         }
+        .Socials:hover{
+            width: 52%;
+            display: flex;
+
+ 
+        }
         .vid{
             width: 60%;
             height: 500px;
