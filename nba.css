@@ -31,7 +31,9 @@
             background-color: transparent;
         }
        
-    
+        #Logo{
+            font-family: 'Fredoka One', cursive;
+        }
         #Intro{
             margin-left: auto;
             margin-right: auto;
@@ -57,7 +59,7 @@
         #LeBronIntro{
             margin-left: auto;
             margin-right: 0%;        ;
-            width: 25%;
+            width: 30%;
             border-radius: 10px;
             border: 1px solid rgb(171, 171, 171);
             padding: 10px;
@@ -88,11 +90,13 @@
             display: block;
             margin-right: 2%;
             margin-left: auto;
+            width: 20%;
         }
         .imgRight{
             display: block;
             margin-right: auto;
             margin-left: 2%;
+            width: 20%;
         }
         .PlayerPage{
             display: block;
@@ -109,6 +113,17 @@
             text-align: justify;
             background-color: rgb(18, 18, 18);
         }
-   
-       
+        .SocialsLogo{
+            display: block;
+            margin-right: auto;
+            width: 30%; 
+        }
+        .Socials{
+            width: 50%;
+            display: flex;
+            align-items: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+      
         
